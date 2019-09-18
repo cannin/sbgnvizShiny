@@ -8,3 +8,7 @@ Visualize pathway diagrams that use the Systems Biology Graphical Notation Marku
 
 # Installation 
 
+```
+library(remotes)
+remotes::install_github("cannin/sbgnvizShiny")
+```
