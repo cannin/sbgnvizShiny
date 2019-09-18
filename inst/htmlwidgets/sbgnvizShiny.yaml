@@ -1,0 +1,12 @@
+dependencies:
+  - name: sbgnvizShiny
+    version: 0.99.1
+    src: htmlwidgets
+    script: lib/bundle.js
+    stylesheet: 
+      - lib/sbgnvizShiny.css
+      - lib/font-awesome.css
+  - name: jquery
+    version: 2.2.4
+    src: htmlwidgets
+    script: lib/jquery.min.js

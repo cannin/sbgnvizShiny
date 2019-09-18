@@ -1,0 +1,8 @@
+<extension>
+  <renderInformation
+    xmlns="http://www.sbml.org/sbml/level3/version1/render/version1" id="renderInformation" programName="sbgnviz" programVersion="4.2.0" backgroundColor="#000000">
+    <listOfColorDefinitions></listOfColorDefinitions>
+    <listOfBackgroundImages/>
+    <listOfStyles></listOfStyles>
+  </renderInformation>
+</extension>
