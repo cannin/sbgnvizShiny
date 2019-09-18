@@ -3,8 +3,6 @@ library(sbgnvizShiny)
 library(htmlwidgets)
 library(xml2)
 
-img <- 'iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAAAAAA6fptVAAAACklEQVQYV2P4DwABAQEAWk1v8QAAAABJRU5ErkJggg=='
-
 # UI ----
 ui = shinyUI(fluidPage(
   tags$head(
