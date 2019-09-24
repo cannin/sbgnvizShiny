@@ -6,9 +6,7 @@ library(xml2)
 # UI ----
 ui = shinyUI(fluidPage(
   tags$head(
-    tags$style("#sbgnvizShiny{height:95vh !important;}"),
-    tags$link(href="https://raw.githubusercontent.com/cytoscape/cytoscape.js-panzoom/master/cytoscape.js-panzoom.css", rel="stylesheet", type="text/css"),
-    tags$link(href="https://raw.githubusercontent.com/cytoscape/cytoscape.js-panzoom/master/font-awesome-4.0.3/css/font-awesome.css", rel="stylesheet", type="text/css")
+    tags$style("#sbgnvizShiny{height:95vh !important;}")
     ),
   titlePanel("sbgnviz Shiny"),
 
